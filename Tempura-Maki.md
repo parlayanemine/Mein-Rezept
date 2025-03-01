@@ -1,4 +1,4 @@
-# 🍛 [Tempura Maki]   
+# 🍛 Tempura Maki  
 
 ## 📌 Zutaten:  
 ###  🍣 für das Sushi :
