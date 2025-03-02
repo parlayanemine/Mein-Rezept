@@ -3,9 +3,18 @@
 
   
 
-## 🍽️ Mein Rezepte  
-- [🍛 Tempura-Maki](./Tempura-Maki.md)  
-- [🍚 Milchreis](./Milchreis.md)  
+## 🍽️   Meine Rezepte  
 
-![Essen](./images/Tempura-maki.jpg)  
-![Tatlı](./images/M.webp)  
+
+- 🍛  [ Tempura-Maki](./Tempura-Maki.md) 
+
+<img src="./images/Tempura-maki.jpg" alt="Tempura-maki" width="350"/>
+</br>
+
+### 🥁🥁🥁 Und leckerer Milchreis 🥁🥁🥁
+
+</br>
+
+- 🍚 [ Milchreis](./Milchreis.md)
+ 
+<img src="./images/M.webp" alt="Milchreis" width="353"/>
